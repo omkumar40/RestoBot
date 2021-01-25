@@ -14,10 +14,10 @@ User is giving input to what type of food he/she would like to have with the inp
 * Clone the repo
 * add the Zomato API key to zomatopy.py file
 * open the terminal in the project directory and run the below commands
-# rasa train
+## rasa train
 Once the bot has been trained, run the bot using the below commands:- 
-# rasa run actions
-# rasa shell
+## rasa run actions
+## rasa shell
 
 ## What is Rasa
 Rasa is a framework for developing AI powered, industrial grade chatbots. It's incredibly powerful, and is used by developers worldwide to create chatbots and contextual assistants. 
