@@ -33,7 +33,7 @@ Rasa NLU’s job is to interpret messages, and Rasa Core’s job is to decide wh
 Rasa NLU: It's the interpreter who understands the input. Basically figures out entities and labels the intent.
 Rasa Core: It does the rest of the work you want your bot to do. The flow of conversation is the most important thing.
 
-## Now let's learn the teminologies we have in our chatbot
+## Now let's learn the terminologies we have in our chatbot
 * <b>Intent</b> - It refers to what a person is trying to say. For eg:'I want to order chinese food', here the intent is to order some food
 * <b>Entity</b>-  An entity in a chatbot is used to add values to search the intent. For eg: The intent is to order some food, but the entity is chinese which is of the type cuisine
 * <b>Actions</b> - Declarations of functions that will be called when the intents, entities and entity types in a sentence are identified.
